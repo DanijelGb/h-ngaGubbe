@@ -1,0 +1,14 @@
+C:\Users\DaciBaci\source\repos\hängaGubbe\bin\Debug\net7.0\hängaGubbe.exe
+C:\Users\DaciBaci\source\repos\hängaGubbe\bin\Debug\net7.0\hängaGubbe.deps.json
+C:\Users\DaciBaci\source\repos\hängaGubbe\bin\Debug\net7.0\hängaGubbe.runtimeconfig.json
+C:\Users\DaciBaci\source\repos\hängaGubbe\bin\Debug\net7.0\hängaGubbe.dll
+C:\Users\DaciBaci\source\repos\hängaGubbe\bin\Debug\net7.0\hängaGubbe.pdb
+C:\Users\DaciBaci\source\repos\hängaGubbe\obj\Debug\net7.0\hängaGubbe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DaciBaci\source\repos\hängaGubbe\obj\Debug\net7.0\hängaGubbe.AssemblyInfoInputs.cache
+C:\Users\DaciBaci\source\repos\hängaGubbe\obj\Debug\net7.0\hängaGubbe.AssemblyInfo.cs
+C:\Users\DaciBaci\source\repos\hängaGubbe\obj\Debug\net7.0\hängaGubbe.csproj.CoreCompileInputs.cache
+C:\Users\DaciBaci\source\repos\hängaGubbe\obj\Debug\net7.0\hängaGubbe.dll
+C:\Users\DaciBaci\source\repos\hängaGubbe\obj\Debug\net7.0\refint\hängaGubbe.dll
+C:\Users\DaciBaci\source\repos\hängaGubbe\obj\Debug\net7.0\hängaGubbe.pdb
+C:\Users\DaciBaci\source\repos\hängaGubbe\obj\Debug\net7.0\hängaGubbe.genruntimeconfig.cache
+C:\Users\DaciBaci\source\repos\hängaGubbe\obj\Debug\net7.0\ref\hängaGubbe.dll
